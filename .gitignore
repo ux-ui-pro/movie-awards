@@ -4,3 +4,4 @@ Thumbs.db
 gulpfile.js
 package.json
 package-lock.json
+yarn-error.log
